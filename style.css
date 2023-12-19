@@ -7,7 +7,7 @@ ul, ol {
   
   /* Styling the navigation bar */
   nav {
-    background-color: #333; /* Change this to your desired background color */
+    background-color: darkblue; /* Change this to your desired background color */
   }
   
   nav a {
@@ -18,7 +18,7 @@ ul, ol {
   }
   
   nav a:hover {
-    background-color: #555; /* Change this to your desired hover background color */
+    background-color: lightblue; /* Change this to your desired hover background color */
   }
   
   /* Centering the navigation links */
